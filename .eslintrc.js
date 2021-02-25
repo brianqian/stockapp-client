@@ -41,6 +41,8 @@ module.exports = {
     'react/prop-types': 1,
     'react/no-array-index-key': 1,
     'react/no-unused-prop-types': 1,
+    'no-unused-vars': 1,
+    'react/self-closing-comp': 1,
   },
   overrides: [
     {
